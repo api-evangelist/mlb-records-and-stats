@@ -41,7 +41,8 @@ apis:
   - name: MLB Records and Stats
     description: "Current and historical MLB statistics"
     humanURL: https://appac.github.io/mlb-data-api-docs/
-    tags:
+    tags: []
+    tags_raw:
       - Sports And Fitness
     properties:
       - type: Documentation
